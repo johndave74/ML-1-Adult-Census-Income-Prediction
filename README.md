@@ -3,6 +3,8 @@ This project aims to predict whether an individual's annual income exceeds $50K 
 
 # Adult Census Income Prediction
 
+![image](https://github.com/user-attachments/assets/57c95162-c710-40ef-b9fe-30f4bc6a08fb)
+
 ## Overview
 This project aims to predict whether an individual's annual income exceeds $50K based on census data using machine learning models. The dataset is obtained from the U.S. Census Bureau and contains demographic and employment-related attributes. The classification task is performed using various machine learning algorithms, and detailed insights are provided at each step.
 
