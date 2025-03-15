@@ -82,10 +82,12 @@ The trained models were evaluated using the following metrics:
 - **Confusion Matrix**: A visualization of classification errors.
 
 ### Results & Insights
-- **Feature Importance**: `Education`, `Occupation`, and `Hours-per-week` were identified as key factors affecting income.
 - **Model Performance**:
   - Decision Tree model achieved an accuracy of **76%**.
-  - The model showed some overfitting tendencies, which could be improved by additional tuning or feature selection.
+  - ConfusionMatrix showing the TP (True Positive), FP (False Positive), TN (True Negative), FN (False Negative)
+
+![image](https://github.com/user-attachments/assets/2acaa9f7-bd28-4fbe-99e0-a906a95456ba)
+
 
 ---
 
