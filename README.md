@@ -69,6 +69,9 @@ The dataset was split into training and test sets (80% training, 20% testing). T
 
 Hyperparameter tuning was performed to optimize model performance.
 
+![image](https://github.com/user-attachments/assets/ff066469-935c-4b2e-aeb9-d2a5d4d9fc08)
+
+
 ### Step 5: Model Evaluation
 The trained models were evaluated using the following metrics:
 
